@@ -6,9 +6,9 @@
 
 ## Graphics
 
-https://user-images.githubusercontent.com/86842365/193547006-77101289-3e4f-46cd-8546-fc9ee5b0f9a1.mov
+<img width="1255" alt="Screenshot 2022-10-03 at 5 46 09 PM" src="https://user-images.githubusercontent.com/86842365/193548297-6c9a9ff1-ad97-41a7-a30d-9e62c1549796.png">
 
-## What ELSE am I working on?
+## What else am I working on?
 
 - A domain-specific programming language
 - Image generation with Machine Learning
