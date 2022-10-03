@@ -8,6 +8,10 @@
 
 <img width="1255" alt="Screenshot 2022-10-03 at 5 46 09 PM" src="https://user-images.githubusercontent.com/86842365/193548297-6c9a9ff1-ad97-41a7-a30d-9e62c1549796.png">
 
+## Board Game AI
+
+<img width="612" alt="showcase2" src="https://user-images.githubusercontent.com/86842365/193588205-a7006ad0-0923-4fed-9290-526e2e6a9f11.png">
+
 ## What else am I working on?
 
 - My personal domain [Artizon-io](https://artizon-io)
