@@ -10,6 +10,7 @@
 
 ## What else am I working on?
 
+- My personal domain [Artizon-io](https://artizon-io)
 - A domain-specific programming language
 - Image generation with Machine Learning
 - Board game AI with Reinforcement Learning
