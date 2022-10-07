@@ -1,6 +1,8 @@
 # Projects showcase
 
-## Workshop System
+## [Workshop System](https://workshop-system.artizon.io)
+
+[Demo](https://workshop-system.artizon.io)
 
 <img width="1270" alt="showcase1" src="https://user-images.githubusercontent.com/86842365/193546652-f0d3a0da-4bab-4907-b7b0-564727eba4a9.png">
 
@@ -16,5 +18,6 @@
 
 - My personal domain [Artizon-io](https://artizon-io)
 - A domain-specific programming language
-- Image generation with Machine Learning
-- Board game AI with Reinforcement Learning
+- Communication system
+- Toy-ing with AI
+- Toy-ing with Unity
