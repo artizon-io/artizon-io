@@ -13,11 +13,3 @@
 ## Board Game AI
 
 <img width="612" alt="showcase2" src="https://user-images.githubusercontent.com/86842365/193588205-a7006ad0-0923-4fed-9290-526e2e6a9f11.png">
-
-## What else am I working on?
-
-- My personal domain [Artizon-io](https://artizon-io)
-- A domain-specific programming language
-- Communication system
-- Toy-ing with AI
-- Toy-ing with Unity
